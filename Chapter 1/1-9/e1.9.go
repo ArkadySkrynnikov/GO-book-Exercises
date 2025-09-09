@@ -9,9 +9,9 @@ import (
 )
 
 func main() {
-	urlEnter := os.Args[1:]
+	urlArgs := os.Args[1:]
 
-	for _, url := range urlEnter {
+	for _, url := range urlArgs {
 		if !strings.HasPrefix(url, "http://") {
 			url = "http://" + url
 		}

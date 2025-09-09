@@ -1,0 +1,16 @@
+1 jsonplaceholder.typicode.com 
+ 0.24s    5645 https://jsonplaceholder.typicode.com/users
+2 jsonplaceholder.typicode.com 
+ 0.25s   27520 https://jsonplaceholder.typicode.com/posts
+3 jsonplaceholder.typicode.com 
+ 0.25s  157745 https://jsonplaceholder.typicode.com/comments
+4 jsonplaceholder.typicode.com 
+ 0.25s    9333 https://jsonplaceholder.typicode.com/albums
+1 jsonplaceholder.typicode.com 
+ 0.09s    9333 https://jsonplaceholder.typicode.com/albums
+2 jsonplaceholder.typicode.com 
+ 0.09s    5645 https://jsonplaceholder.typicode.com/users
+3 jsonplaceholder.typicode.com 
+ 0.09s   27520 https://jsonplaceholder.typicode.com/posts
+4 jsonplaceholder.typicode.com 
+ 0.10s  157745 https://jsonplaceholder.typicode.com/comments

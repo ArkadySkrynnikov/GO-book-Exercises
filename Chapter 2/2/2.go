@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"main/2-2/tempconv"
+	"main/2/tempconv"
 	"os"
 	"strconv"
 )

@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"main/2-1/tempconv"
+	"main/1/tempconv"
 )
 
 func main() {

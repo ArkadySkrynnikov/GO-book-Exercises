@@ -1,0 +1,34 @@
+{
+    "editor.fontSize": 22,
+    "workbench.editor.empty.hint": "hidden",
+    "terminal.integrated.fontSize": 20,
+    "workbench.tree.indent": 20,
+    "workbench.colorTheme": "Webstorm New Light",
+    "editor.formatOnSave": true,
+    "editor.lineHeight": 1.5,
+    "breadcrumbs.enabled": false,
+    "diffEditor.renderGutterMenu": false,
+    "debug.showInlineBreakpointCandidates": false,
+    "editor.glyphMargin": false,
+    "diffEditor.renderMarginRevertIcon": false,
+    "explorer.compactFolders": false,
+    "scm.compactFolders": false,
+    "editor.linkedEditing": true,
+    "html.autoClosingTags": true,
+    "js/ts.autoClosingTags.enabled": true,
+    "workbench.activityBar.location": "bottom",
+    "editor.stickyScroll.enabled": false,
+    "cSpell.language": "en, ru",
+    "workbench.iconTheme": "ayu",
+    "editor.fontFamily": "Jetbrains Mono",
+    "cSpell.userWords": [
+        "nframes",
+        "popcount",
+        "tempconv",
+        "Сolorlndex"
+    ],
+    "editor.unicodeHighlight.allowedLocales": {
+        "ru": true
+    },
+    "jdk.telemetry.enabled": false
+}
